@@ -74,3 +74,5 @@ NTT
 13 top->孤独なレーンで周りを見る必要がないらしいよ（noob)
 
 14 youtube replayのアドオンいれて嬉しい
+
+15 iPhone
