@@ -6,15 +6,13 @@
 puts "Hello!!!"
 ```
 
-0 
-
 # 1 fugafuga
 
 ### "World"
 
 2 ADC
 
-3
+3 `puts "一昨日の昼ごはんはカレー"`
 
 4
 
