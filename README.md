@@ -85,6 +85,11 @@ $ mkdir hogehoge
 $ cd hogehoge
 ``
 
+```
+$ touch HelloWorld.c
+$ echo HelloWorld!!! >> HelloWorld.c
+```
+
 13 top->孤独なレーンで周りを見る必要がないらしいよ（noob)
 
 14 youtube replayのアドオンいれて嬉しい
