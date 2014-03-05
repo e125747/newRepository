@@ -53,3 +53,5 @@ NTT
 任天堂
 
 9 jungle
+
+# 10 LOLしたい
