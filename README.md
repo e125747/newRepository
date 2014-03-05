@@ -1,9 +1,8 @@
+4週目らしいですよ!!!!!
+
 0 yoshida (^o^)
 
-# 1 teemo "world"
-
-
-# 1 fugafuga
+1
 
 #^v^
 
@@ -16,9 +15,7 @@
 4 `puts "また憲法概論落としたつらい"`
 
 # 2年の後期について(感想)
-今期はまさかの伏兵(人工知能)にGPA4が阻まれた...
-
-鬼門と言われているデータベースシステムがAだったのに...
+鬼門:物理入門
 
 # 4 桃鉄がしたい
 
@@ -37,7 +34,13 @@ $ emacs README.md # 内容編集
 $ git stage README.md
 $ git commit 
 $ git fetch
-$ git merge FETCH_HEAD # 衝突が確認されたら`$ git status`で確認
+$ git merge FETCH_HEAD # 衝突が確認されたら
+`$ git status`
+を行う
+$ git stage README.md # 衝突を直したら再び
+`$ git stage README.md`
+で追加
+$ git commit
 $ git push
 ```
 
@@ -45,7 +48,8 @@ $ git push
 
 # git 道場part2
 
-### 衝突した際にREADME.mdの中身の"<<<<<<",">>>>>>>>"とか"======"など衝突した証拠。上手く統合させよう。
+### 衝突した際にREADME.mdの中身の"<<<<<<",">>>>>>>>"とか"======"など衝突した証拠。
+上手く統合させよう。
 
 # 8 すげー会社
 apple
@@ -57,3 +61,6 @@ NTT
 # 10 LOLしたい
 
 # 11 書くことがない
+
+12 jungle->フィールド全体を把握しないといけないレーンらしいよ。(にわか)
+
