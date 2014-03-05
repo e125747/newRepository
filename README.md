@@ -100,7 +100,6 @@ puts "まーじまーじ"
 |Vim |Emacs|...|
 |C|Obj-C|Java|
 
-
 ```
 $test
 ```
@@ -120,3 +119,8 @@ $ echo HelloWorld!!! >> HelloWorld.c
 
 # 好きなdrink
  * さんぴん茶
+ * ルートビア
+ * 生茶
+ * Monster
+ * アセロラ
+
