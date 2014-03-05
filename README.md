@@ -90,7 +90,7 @@ NTT
  * 博士の愛した数式
  * 基礎からのMySQL
 
-# markdown
+# MarkDown_Function
 ``` ruby
 puts "まーじまーじ"
 ```
@@ -100,7 +100,10 @@ puts "まーじまーじ"
 |Vim |Emacs|...|
 |C|Obj-C|Java|
 
-# MarkDown_Function
+```
+$test
+```
+
 ` 
 $ mkdir hogehoge
 `
@@ -114,6 +117,9 @@ $ touch HelloWorld.c
 $ echo HelloWorld!!! >> HelloWorld.c
 ```
 
+# drink
+ * ルートビア
+ * 生茶
  * Monster
  * アセロラ
  * さんぴん茶
