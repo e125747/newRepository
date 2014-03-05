@@ -2,9 +2,6 @@
 
 # 1 teemo "world"
 
-```
-puts "Hello!!!"
-```
 
 # 1 fugafuga
 
@@ -27,9 +24,9 @@ puts "Hello!!!"
 
 
 # 食生活
-## 昨日の夕飯->お茶漬け
-## 昨日の昼飯->回転すし
-## 昨日の朝飯->スパゲティー
+##### 昨日の夕飯->お茶漬け
+##### 昨日の昼飯->回転すし
+##### 昨日の朝飯->スパゲティー
 5
 
 6
@@ -40,7 +37,7 @@ $ emacs README.md # 内容編集
 $ git stage README.md
 $ git commit 
 $ git fetch
-$ git FETCH_HEAD # 衝突が確認されたら$git statusで確認
+$ git merge FETCH_HEAD # 衝突が確認されたら`$ git status`で確認
 $ git push
 ```
 
@@ -52,4 +49,5 @@ $ git push
 
 8
 
-9
+
+9 jungle
