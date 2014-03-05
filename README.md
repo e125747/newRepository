@@ -117,13 +117,15 @@ $ touch HelloWorld.c
 $ echo HelloWorld!!! >> HelloWorld.c
 ```
 
-# drink
+# 好きなdrink
+ * さんぴん茶
  * ルートビア
  * 生茶
  * Monster
  * アセロラ
- * さんぴん茶
 
-login_function
+# login_function
+ * 認証機能のテスト終了
+ * ユーザーのデータベースを作成
  * クッキーの作成?!
  * ワンタイムパスワード?!
