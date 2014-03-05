@@ -71,8 +71,18 @@ NTT
 
 12 jungle->フィールド全体を把握しないといけないレーンらしいよ。(にわか)
 
+
+13 # お気に入りのツール
+### Alfred
+### Plain Clip
+
 13 top->孤独なレーンで周りを見る必要がないらしいよ（noob)
 
 14 youtube replayのアドオンいれて嬉しい
 
-15 iPhone
+#15 tool
+ *  iPhone
+ * Vim
+ * Alfred
+
+
