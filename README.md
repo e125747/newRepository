@@ -85,4 +85,6 @@ NTT
  * Vim
  * Alfred
 
-
+# book
+ * 初めてのプログラミング
+ * たのしいRuby
