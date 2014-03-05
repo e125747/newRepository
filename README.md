@@ -72,12 +72,6 @@ NTT
 12 jungle->フィールド全体を把握しないといけないレーンらしいよ。(にわか)
 
 
-# 13  お気に入りのツール/本
-### Alfred
-### Plain Clip
-### 博士の愛した数式
-### 基礎からのMySQL(図書館のやつ無くしちゃった...)
-
 13 top->孤独なレーンで周りを見る必要がないらしいよ（noob)
 
 14 youtube replayのアドオンいれて嬉しい
@@ -86,14 +80,17 @@ NTT
  *  iPhone
  * Vim
  * Alfred
+ * Plain Clip
 
 
 # book
  * 初めてのプログラミング
  * たのしいRuby
  * OSの教科書
+ * 博士の愛した数式
+ * 基礎からのMySQL
 
-# markdown
+# MarkDown_Function
 ``` ruby
 puts "まーじまーじ"
 ```
@@ -102,6 +99,23 @@ puts "まーじまーじ"
 |:---|:--:|---:|
 |Vim |Emacs|...|
 |C|Obj-C|Java|
+
+```
+$test
+```
+
+` 
+$ mkdir hogehoge
+`
+
+``
+$ cd hogehoge
+``
+
+```
+$ touch HelloWorld.c
+$ echo HelloWorld!!! >> HelloWorld.c
+```
 
 # drink
  * ルートビア
