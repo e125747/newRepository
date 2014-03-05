@@ -123,3 +123,4 @@ $ echo HelloWorld!!! >> HelloWorld.c
 
 # login_function
  * 認証機能のテスト終了
+ * ユーザーのデータベースを作成
