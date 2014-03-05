@@ -100,7 +100,6 @@ puts "まーじまーじ"
 |Vim |Emacs|...|
 |C|Obj-C|Java|
 
-
 ```
 $test
 ```
@@ -117,3 +116,7 @@ $ cd hogehoge
 $ touch HelloWorld.c
 $ echo HelloWorld!!! >> HelloWorld.c
 ```
+
+# drink
+ * ルートビア
+ * 生茶
