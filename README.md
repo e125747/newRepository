@@ -93,3 +93,12 @@ NTT
  * たのしいRuby
  * OSの教科書
 
+# markdown
+``` ruby
+puts "まーじまーじ"
+```
+
+|ほげ|ふが|ぴよ|
+|:---|:--:|---:|
+|Vim |Emacs|...|
+|C|Obj-C|Java|
