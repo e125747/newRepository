@@ -123,3 +123,6 @@ $ echo HelloWorld!!! >> HelloWorld.c
  * Monster
  * アセロラ
  * さんぴん茶
+
+login_function
+ * hogehoge
