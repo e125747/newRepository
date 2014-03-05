@@ -71,12 +71,7 @@ NTT
 
 12 jungle->フィールド全体を把握しないといけないレーンらしいよ。(にわか)
 
-
-# 13  お気に入りのツール/本/markdown
-### Alfred
-### Plain Clip
-### 博士の愛した数式
-### 基礎からのMySQL(図書館のやつ無くしちゃった...)
+# MarkDown_Function
 ` 
 $ mkdir hogehoge
 `
@@ -98,7 +93,10 @@ $ echo HelloWorld!!! >> HelloWorld.c
  *  iPhone
  * Vim
  * Alfred
+ * Plain Clip
 
 # book
  * 初めてのプログラミング
  * たのしいRuby
+ * 博士の愛した数式
+ * 基礎からのMySQL
