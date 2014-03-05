@@ -113,3 +113,6 @@ $ cd hogehoge
 $ touch HelloWorld.c
 $ echo HelloWorld!!! >> HelloWorld.c
 ```
+
+ * Monster
+ * アセロラ
