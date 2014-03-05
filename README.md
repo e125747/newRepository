@@ -124,3 +124,5 @@ $ echo HelloWorld!!! >> HelloWorld.c
  * Monster
  * アセロラ
 
+# login機能追加
+ * IDを主キーに設定した。
