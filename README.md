@@ -39,7 +39,7 @@ $ emacs README.md # 内容編集
 $ git stage README.md
 $ git commit 
 $ git fetch
-$ git FETCH_HEAD # 衝突が確認されたら$git statusで確認
+$ git merge FETCH_HEAD # 衝突が確認されたら`$ git status`で確認
 $ git push
 ```
 
