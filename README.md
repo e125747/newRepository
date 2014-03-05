@@ -117,3 +117,6 @@ $ cd hogehoge
 $ touch HelloWorld.c
 $ echo HelloWorld!!! >> HelloWorld.c
 ```
+
+# 好きなdrink
+ * さんぴん茶
