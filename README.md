@@ -71,5 +71,15 @@ NTT
 
 12 jungle->フィールド全体を把握しないといけないレーンらしいよ。(にわか)
 
+<<<<<<< HEAD
 13 # お気に入りのツール
 ### Alfred
+=======
+13 top->孤独なレーンで周りを見る必要がないらしいよ（noob)
+
+14 youtube replayのアドオンいれて嬉しい
+
+# tool
+ * Vim
+ * Alfred
+>>>>>>> FETCH_HEAD
