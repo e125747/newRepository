@@ -125,4 +125,5 @@ $ echo HelloWorld!!! >> HelloWorld.c
  * さんぴん茶
 
 login_function
- * hogehoge
+ * クッキーの作成?!
+ * ワンタイムパスワード?!
