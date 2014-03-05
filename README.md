@@ -88,3 +88,8 @@ NTT
 # book
  * 初めてのプログラミング
  * たのしいRuby
+
+# markdown
+``` ruby
+puts "まーじまーじ"
+```
