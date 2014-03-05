@@ -36,7 +36,13 @@ $ emacs README.md # 内容編集
 $ git stage README.md
 $ git commit 
 $ git fetch
-$ git merge FETCH_HEAD # 衝突が確認されたら`$ git status`で確認
+$ git merge FETCH_HEAD # 衝突が確認されたら
+`$ git status`
+を行う
+$ git stage README.md # 衝突を直したら再び
+`$ git stage README.md`
+で追加
+$ git commit
 $ git push
 ```
 
