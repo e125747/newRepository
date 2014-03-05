@@ -120,3 +120,6 @@ $ echo HelloWorld!!! >> HelloWorld.c
 # drink
  * ルートビア
  * 生茶
+
+# login_function
+ * 認証機能のテスト終了
