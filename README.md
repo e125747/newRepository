@@ -117,9 +117,12 @@ $ touch HelloWorld.c
 $ echo HelloWorld!!! >> HelloWorld.c
 ```
 
-# drink
+# 好きなdrink
+ * さんぴん茶
  * ルートビア
  * 生茶
+ * Monster
+ * アセロラ
 
 # login_function
  * 認証機能のテスト終了
