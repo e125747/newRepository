@@ -1,9 +1,6 @@
 0 yoshida (^o^)
 
-# 1 teemo "world"
-
-
-# 1 fugafuga
+1
 
 #^v^
 
