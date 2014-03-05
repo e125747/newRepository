@@ -87,6 +87,9 @@ NTT
  * Vim
  * Alfred
 
+
 # book
  * 初めてのプログラミング
  * たのしいRuby
+ * OSの教科書
+
