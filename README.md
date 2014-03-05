@@ -73,3 +73,4 @@ NTT
 
 13 # お気に入りのツール
 ### Alfred
+### Plain Clip
