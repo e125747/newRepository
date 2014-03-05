@@ -2,9 +2,6 @@
 
 # 1 teemo "world"
 
-```
-puts "Hello!!!"
-```
 
 0 
 
