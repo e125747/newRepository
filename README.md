@@ -1,6 +1,6 @@
 10週目らしいですよ!!!!!
 
-login_function_Toru05
+
 
 0 yoshida (^o^)
 
@@ -133,3 +133,5 @@ $ echo HelloWorld!!! >> HelloWorld.c
  * クッキーの作成?!
  * ワンタイムパスワード?!
  * IDを主キーに設定した。
+
+ほげほｇほごえほｇ
